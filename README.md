@@ -1,1 +1,1 @@
-Only input the year between 2016 and 2024
+Only input the year between 2016 and 2024 with blitz
